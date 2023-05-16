@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Reanimated_3_0",
+    "slug": "Reanimated_3_0"
+  }
+}
